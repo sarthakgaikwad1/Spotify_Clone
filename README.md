@@ -1,1 +1,1 @@
-# Spotify_Clone
+This project was built using HTML and CSS.
