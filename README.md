@@ -1,4 +1,7 @@
 # Spotify_Clone
+
+## Live Demo Link:  [https://guileless-gecko-738168.netlify.app]
+
 Developed a responsive web application using HTML, CSS, and JavaScript for cross-device compatibility.
 Implemented interactive audio controls for play, pause, volume, and speed using JavaScript.
 Enhanced user experience with animations and smooth transitions for interactive playback.
