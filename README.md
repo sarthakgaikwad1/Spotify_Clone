@@ -1,11 +1,18 @@
-# Spotify_Clone
+🎧 Spotify Clone
+A responsive web-based music player inspired by Spotify, developed using HTML, CSS, and JavaScript.
 
-# Live Demo Link:  [https://guileless-gecko-738168.netlify.app]
+# Overview
+Built this project to replicate the core functionality of a modern music streaming app. The goal was to create a seamless and interactive user experience across all device sizes.
+Designed a responsive UI compatible with mobile, tablet, and desktop.
+Implemented key audio controls: play, pause, volume, and speed adjustment using JavaScript.
+Added smooth animations and transitions to enhance user experience.
+Ensured functionality across modern browsers and basic accessibility for usability.
 
-Developed a responsive web application using HTML, CSS, and JavaScript for cross-device compatibility.
-Implemented interactive audio controls for play, pause, volume, and speed using JavaScript.
-Enhanced user experience with animations and smooth transitions for interactive playback.
-Ensured browser compatibility and accessibility to improve usability across different device.
+# Technologies Used
+HTML5 – Structure
+CSS3 – Styling and responsiveness
+JavaScript – Interactivity and audio control
 
-Technology used: HTML, CSS, JavaScript
+# Live Preview: [https://guileless-gecko-738168.netlify.app]
+
 
