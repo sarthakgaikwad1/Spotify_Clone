@@ -1,4 +1,4 @@
-🎧 Spotify Clone: 
+# 🎧 Spotify Clone: 
 A responsive web-based music player inspired by Spotify, developed using HTML, CSS, and JavaScript.
 
 # Overview: 
