@@ -11,7 +11,6 @@ const totalTimeDisplay = document.querySelector(".total-time"); // Total duratio
 const selectPartBtn = document.querySelector(".select-part-btn"); // Button to select song part
 const progressBar = document.querySelector(".progress-bar"); // Progress bar
 
-
 // Playlist
 const playlist = [
     "assets/Happy Music.mp3",
