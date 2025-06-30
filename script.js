@@ -19,7 +19,6 @@ const playlist = [
     "assets/Malang Sajna_Song.mp3"
 ];
 
-
 let currentSongIndex = 0;
 let isPlaying = false;
 let startTime = 0;
