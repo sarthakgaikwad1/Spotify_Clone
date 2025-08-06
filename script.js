@@ -84,6 +84,7 @@ loopBtn.addEventListener("click", () => {
     loopBtn.classList.toggle("active-loop", audio.loop);
 });
 
+
 // Shuffle button functionality
 shuffleBtn.addEventListener("click", () => {
     let randomSongIndex;
