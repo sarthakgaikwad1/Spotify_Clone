@@ -32,6 +32,7 @@ audio.addEventListener("loadedmetadata", () => {
     totalTimeDisplay.textContent = formatTime(audio.duration || 0);
 });
 
+
 // Update progress bar and current time
 audio.addEventListener("timeupdate", () => {
     currentTimeDisplay.textContent = formatTime(audio.currentTime);
