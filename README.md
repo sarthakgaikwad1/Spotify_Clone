@@ -19,6 +19,6 @@ CSS3 – Styling and responsiveness
 
 JavaScript – Interactivity and audio control
 
-# Live Preview: [https://guileless-gecko-738168.netlify.app]
+# Live Preview: Click on this Link to see Spotify Clone [https://guileless-gecko-738168.netlify.app]
 
 
